@@ -1,1 +1,2 @@
 line added
+second line added in file.txt in branch session1 
